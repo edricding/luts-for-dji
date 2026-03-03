@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Local AI agent/config folders (do not commit)
+.agent/
+.agents/
+.codex/
+.claude/
+
+# Local skills directories/files
+skills/
+SKILL.md
