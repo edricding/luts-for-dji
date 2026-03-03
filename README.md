@@ -20,7 +20,7 @@
 
 ## Creative LUT 列表（含中英文映射）
 
-| 当前英文文件名 | 原中文文件名 | 风格说明 |
+| NAME | 中文名 | STYLE 风格 |
 | --- | --- | --- |
 | `lut-kodak-5219-warm.cube` | `柯达5219暖.cube` | 柯达 5219 风格，偏暖。 |
 | `lut-kodak-portra-400.cube` | `柯达炮塔400.cube` | 柯达 Portra 400 风格，胶片人像感。 |
