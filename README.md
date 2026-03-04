@@ -1,4 +1,4 @@
-# LUTs for DJI 2026.03
+# LUTs for DJI - 2026.03
 
 本仓库用于整理 DJI 相关 LUT 文件，当前分为两类：
 
